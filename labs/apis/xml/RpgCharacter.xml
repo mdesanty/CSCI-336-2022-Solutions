@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<Character characterId="10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="RpgCharacter.xsd">
+  <name>Steven</name>
+  <level>10</level>
+  <class>Warrior</class>
+  <inventory>
+    <item itemId="5">
+       <name>Awesome Sword of Awesomness</name>
+       <attack>1000</attack>
+       <defense>1000</defense>
+    </item>
+    <item itemId="6">
+      <name>Health Potion</name>
+       <attack>0</attack>
+       <defense>0</defense>
+       <effect>Heal for 10,000</effect>
+    </item>
+  </inventory>
+</Character>

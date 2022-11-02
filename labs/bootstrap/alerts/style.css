@@ -1,0 +1,17 @@
+.container-alerts {
+  padding-top: 15px;
+}
+
+.btn-purple {
+  background-color: blueviolet !important;
+  color: white !important;
+}
+
+.btn-purple:hover {
+  background-color: #795F80 !important;
+}
+
+.alert-purple {
+  background-color: blueviolet !important;
+  color: white !important;
+}
