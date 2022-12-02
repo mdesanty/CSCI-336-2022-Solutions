@@ -1,0 +1,17 @@
+body {
+  background-color: #708090 !important;
+}
+
+#main-container .rounded-top {
+  border-radius: 10px 10px 0px 0px !important;
+}
+
+#main-container .rounded-bottom {
+  border-radius: 0px 0px 10px 10px !important;
+}
+
+.carousel-img {
+  width: auto;
+  height: 550px;
+  max-height: 550px;
+}
